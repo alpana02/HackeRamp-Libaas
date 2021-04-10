@@ -30,6 +30,7 @@ The prototype was build using :
 
 ### Some snippets of our prototype:
 1) 3d try on for apparels
-![3d](https://user-images.githubusercontent.com/68842515/114282574-4cbf2580-9a62-11eb-8cbe-adc4948f0278.JPG)
 ![ss1](https://user-images.githubusercontent.com/68842515/114282577-4fba1600-9a62-11eb-9459-a45df7f6885d.JPG)
-![ss2](https://user-images.githubusercontent.com/68842515/114282578-50eb4300-9a62-11eb-937f-c45a28e4e76b.JPG)
+![3d](https://user-images.githubusercontent.com/68842515/114282574-4cbf2580-9a62-11eb-8cbe-adc4948f0278.JPG)
+
+
