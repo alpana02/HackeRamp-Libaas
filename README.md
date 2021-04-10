@@ -20,15 +20,15 @@ The prototype was build using :
 ## Starting the model on the machine: 
 
 ### Try on for accessories: 
-1)Install the dependency from requirements.txt.      
-2)The following versions are must Python =3.6.5.    
-3)Tensorflow 1.15.0                            
-4)Run the code by navigating to target folder and typing python jewelcode.py
+1) Install the dependency from requirements.txt.      
+2) The following versions are must Python =3.6.5.    
+3) Tensorflow 1.15.0                            
+4) Run the code by navigating to target folder and typing python jewelcode.py
 
 ### Try on for apparels:
-1)Install Unity 2017.3.0f3
-2)Download all packages
-3)Go to game mode and click Play button.
+1) Install Unity 2017.3.0f3
+2) Download all packages
+3) Go to game mode and click Play button.
 
 ### Some snippets of our prototype:
 
