@@ -25,3 +25,6 @@ The prototype was build using :
 ->Run the code by navigating to target folder and typing python jewelcode.py
 ### Try on for apparels:
 ->Install Unity 2017.3.0f3
+->Download all packages
+->Go to game mode and click Play button.
+
