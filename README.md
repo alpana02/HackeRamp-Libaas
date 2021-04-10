@@ -50,4 +50,4 @@ The prototype was build using :
 
 ![3d](https://user-images.githubusercontent.com/68842515/114282574-4cbf2580-9a62-11eb-8cbe-adc4948f0278.JPG)
     
-                                                                --- THANKYOU ---
+                                                            --- THANKYOU ---
