@@ -1,11 +1,4 @@
  
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  3 20:41:35 2019
-
-@author: ASUS
-"""
 import cv2
 import numpy as q
 import settings
